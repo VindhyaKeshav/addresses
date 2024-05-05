@@ -1,11 +1,200 @@
-name,dishes[0],dishes[1],dishes[2],dishes[3],dishes[4],dishes[5],dishes[6],dishes[7],dishes[8],dishes[9],dishes[10],dishes[11],dishes[12],dishes[13],dishes[14],dishes[15],dishes[16],dishes[17],dishes[18],dishes[19]
-North Indian,Butter Chicken,Paneer Tikka,Rogan Josh,Chole Bhature,Aloo Paratha,Dal Makhani,Tandoori Chicken,Palak Paneer,Rajma Chawal,Aloo Gobi,Chicken Biryani,Mutton Curry,Shahi Paneer,Chicken Tikka Masala,Kadai Paneer,Litti Chokha,Matar Paneer,Dum Aloo,Malai Kofta,Baingan Bharta
-South Indian,Dosa,Idli,Vada,Sambar,Rasam,Upma,Pongal,Uttapam,Bisi Bele Bath,Lemon Rice,Coconut Chutney,Tomato Chutney,Pesarattu,Appam,Kerala Parotta,Chicken Chettinad,Hyderabadi Biryani,Masala Dosa,Mysore Masala Dosa,Rava Idli
-Mexican,Tacos,Burritos,Quesadillas,Enchiladas,Nachos,Guacamole,Fajitas,Chimichangas,Tamales,Churros,Carne Asada,Carnitas,Mexican Rice,Refried Beans,Salsa Verde,Pico de Gallo,Chile Rellenos,Flan,Margarita,Horchata
-Beverages,Coffee,Tea,Orange Juice,Apple Juice,Lemonade,Iced Tea,Hot Chocolate,Milkshake,Smoothie,Coconut Water,Soda,Sparkling Water,Energy Drink,Protein Shake,Herbal Tea,Chai Latte,Espresso,Cappuccino,Frappuccino,Matcha Latte
-Cold Drinks,Coca-Cola,Pepsi,Sprite,Mountain Dew,Fanta,Dr. Pepper,7UP,Root Beer,Ginger Ale,Club Soda,Tonic Water,Cola Zero,Diet Coke,Lemon-Lime Soda,Orange Soda,Grape Soda,Cream Soda,Iced Coffee,Iced Tea,Bottled Water
-Chinese,Kung Pao Chicken,Fried Rice,Sweet and Sour Pork,Chow Mein,Spring Rolls,Dim Sum,Mapo Tofu,Peking Duck,Hot and Sour Soup,General Tso's Chicken,Beef and Broccoli,Dumplings,Orange Chicken,Szechuan Shrimp,Lo Mein,Egg Foo Young,Cashew Chicken,Mongolian Beef,Crab Rangoon,Sesame Chicken
-Japanese,Sushi,Ramen,Tempura,Sashimi,Yakitori,Udon,Tonkatsu,Miso Soup,Okonomiyaki,Gyoza,Donburi,Chawanmushi,Takoyaki,Matcha Ice Cream,Sukiyaki,Onigiri,Shabu-Shabu,Karaage,Oden,Taiyaki
-Italian,Pizza Margherita,Spaghetti Carbonara,Lasagna,Risotto,Fettuccine Alfredo,Caprese Salad,Bruschetta,Tiramisu,Ravioli,Gnocchi,Panzanella,Osso Buco,Arancini,Cannoli,Minestrone Soup,Polenta,Cioppino,Prosciutto e Melone,Insalata Caprese,Panna Cotta
-Korean,Kimchi,Bulgogi,Bibimbap,Japchae,Tteokbokki,Samgyeopsal,Kimbap,Mandu,Jajangmyeon,Galbi,Sundubu-jjigae,Kimchi Fried Rice,Dak-galbi,Budae Jjigae,Gamjatang,Bossam,Gimbap,Pajeon,Mul-naengmyeon,Bibim-naengmyeon
-Fast Food,Hamburger,Cheeseburger,French Fries,Chicken Nuggets,Hot Dog,Pizza,Fried Chicken,Tacos,Burritos,Sandwiches,Wraps,Donuts,Milkshakes,Ice Cream,Onion Rings,Fish and Chips,Falafel,Gyros,Poutine,Fried Rice
+North Indian,Butter Chicken
+North Indian,Paneer Tikka
+North Indian,Rogan Josh
+North Indian,Chole Bhature
+North Indian,Aloo Paratha
+North Indian,Dal Makhani
+North Indian,Tandoori Chicken
+North Indian,Palak Paneer
+North Indian,Rajma Chawal
+North Indian,Aloo Gobi
+North Indian,Chicken Biryani
+North Indian,Mutton Curry
+North Indian,Shahi Paneer
+North Indian,Chicken Tikka Masala
+North Indian,Kadai Paneer
+North Indian,Litti Chokha
+North Indian,Matar Paneer
+North Indian,Dum Aloo
+North Indian,Malai Kofta
+North Indian,Baingan Bharta
+South Indian,Dosa
+South Indian,Idli
+South Indian,Vada
+South Indian,Sambar
+South Indian,Rasam
+South Indian,Upma
+South Indian,Pongal
+South Indian,Uttapam
+South Indian,Bisi Bele Bath
+South Indian,Lemon Rice
+South Indian,Coconut Chutney
+South Indian,Tomato Chutney
+South Indian,Pesarattu
+South Indian,Appam
+South Indian,Kerala Parotta
+South Indian,Chicken Chettinad
+South Indian,Hyderabadi Biryani
+South Indian,Masala Dosa
+South Indian,Mysore Masala Dosa
+South Indian,Rava Idli
+Mexican,Tacos
+Mexican,Burritos
+Mexican,Quesadillas
+Mexican,Enchiladas
+Mexican,Nachos
+Mexican,Guacamole
+Mexican,Fajitas
+Mexican,Chimichangas
+Mexican,Tamales
+Mexican,Churros
+Mexican,Carne Asada
+Mexican,Carnitas
+Mexican,Mexican Rice
+Mexican,Refried Beans
+Mexican,Salsa Verde
+Mexican,Pico de Gallo
+Mexican,Chile Rellenos
+Mexican,Flan
+Mexican,Margarita
+Mexican,Horchata
+Beverages,Coffee
+Beverages,Tea
+Beverages,Orange Juice
+Beverages,Apple Juice
+Beverages,Lemonade
+Beverages,Iced Tea
+Beverages,Hot Chocolate
+Beverages,Milkshake
+Beverages,Smoothie
+Beverages,Coconut Water
+Beverages,Soda
+Beverages,Sparkling Water
+Beverages,Energy Drink
+Beverages,Protein Shake
+Beverages,Herbal Tea
+Beverages,Chai Latte
+Beverages,Espresso
+Beverages,Cappuccino
+Beverages,Frappuccino
+Beverages,Matcha Latte
+Cold Drinks,Coca-Cola
+Cold Drinks,Pepsi
+Cold Drinks,Sprite
+Cold Drinks,Mountain Dew
+Cold Drinks,Fanta
+Cold Drinks,Dr. Pepper
+Cold Drinks,7UP
+Cold Drinks,Root Beer
+Cold Drinks,Ginger Ale
+Cold Drinks,Club Soda
+Cold Drinks,Tonic Water
+Cold Drinks,Cola Zero
+Cold Drinks,Diet Coke
+Cold Drinks,Lemon-Lime Soda
+Cold Drinks,Orange Soda
+Cold Drinks,Grape Soda
+Cold Drinks,Cream Soda
+Cold Drinks,Iced Coffee
+Cold Drinks,Iced Tea
+Cold Drinks,Bottled Water
+Chinese,Kung Pao Chicken
+Chinese,Fried Rice
+Chinese,Sweet and Sour Pork
+Chinese,Chow Mein
+Chinese,Spring Rolls
+Chinese,Dim Sum
+Chinese,Mapo Tofu
+Chinese,Peking Duck
+Chinese,Hot and Sour Soup
+Chinese,General Tso's Chicken
+Chinese,Beef and Broccoli
+Chinese,Dumplings
+Chinese,Orange Chicken
+Chinese,Szechuan Shrimp
+Chinese,Lo Mein
+Chinese,Egg Foo Young
+Chinese,Cashew Chicken
+Chinese,Mongolian Beef
+Chinese,Crab Rangoon
+Chinese,Sesame Chicken
+Japanese,Sushi
+Japanese,Ramen
+Japanese,Tempura
+Japanese,Sashimi
+Japanese,Yakitori
+Japanese,Udon
+Japanese,Tonkatsu
+Japanese,Miso Soup
+Japanese,Okonomiyaki
+Japanese,Gyoza
+Japanese,Donburi
+Japanese,Chawanmushi
+Japanese,Takoyaki
+Japanese,Matcha Ice Cream
+Japanese,Sukiyaki
+Japanese,Onigiri
+Japanese,Shabu-Shabu
+Japanese,Karaage
+Japanese,Oden
+Japanese,Taiyaki
+Italian,Pizza Margherita
+Italian,Spaghetti Carbonara
+Italian,Lasagna
+Italian,Risotto
+Italian,Fettuccine Alfredo
+Italian,Caprese Salad
+Italian,Bruschetta
+Italian,Tiramisu
+Italian,Ravioli
+Italian,Gnocchi
+Italian,Panzanella
+Italian,Osso Buco
+Italian,Arancini
+Italian,Cannoli
+Italian,Minestrone Soup
+Italian,Polenta
+Italian,Cioppino
+Italian,Prosciutto e Melone
+Italian,Insalata Caprese
+Italian,Panna Cotta
+Korean,Kimchi
+Korean,Bulgogi
+Korean,Bibimbap
+Korean,Japchae
+Korean,Tteokbokki
+Korean,Samgyeopsal
+Korean,Kimbap
+Korean,Mandu
+Korean,Jajangmyeon
+Korean,Galbi
+Korean,Sundubu-jjigae
+Korean,Kimchi Fried Rice
+Korean,Dak-galbi
+Korean,Budae Jjigae
+Korean,Gamjatang
+Korean,Bossam
+Korean,Gimbap
+Korean,Pajeon
+Korean,Mul-naengmyeon
+Korean,Bibim-naengmyeon
+Fast Food,Hamburger
+Fast Food,Cheeseburger
+Fast Food,French Fries
+Fast Food,Chicken Nuggets
+Fast Food,Hot Dog
+Fast Food,Pizza
+Fast Food,Fried Chicken
+Fast Food,Tacos
+Fast Food,Burritos
+Fast Food,Sandwiches
+Fast Food,Wraps
+Fast Food,Donuts
+Fast Food,Milkshakes
+Fast Food,Ice Cream
+Fast Food,Onion Rings
+Fast Food,Fish and Chips
+Fast Food,Falafel
+Fast Food,Gyros
+Fast Food,Poutine
+Fast Food,Fried Rice
